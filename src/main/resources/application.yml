@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3.us-east-1.amazonaws.com
+  accessKey: xxxxxxxxxxxxxxxxxxxxx
+  secretKey: xxxxxxxxxxxxxxxxxxxxxxxxxxx
+  bucketName: it15098474myawsbucket
